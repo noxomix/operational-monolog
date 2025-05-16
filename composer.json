@@ -10,5 +10,12 @@
   "require": {
     "guzzlehttp/guzzle": "^7.0",
     "monolog/monolog": "^3.0"
-  }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Theo Andrup",
+      "email": "theo@ecebo.de"
+    }
+  ]
 }
