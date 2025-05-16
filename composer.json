@@ -1,0 +1,14 @@
+{
+  "name": "noxomix/operational-monolog",
+  "description": "A Monolog handler for operational.co",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Noxomix\\OperationalMonolog\\": "src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^7.0",
+    "monolog/monolog": "^3.0"
+  }
+}
